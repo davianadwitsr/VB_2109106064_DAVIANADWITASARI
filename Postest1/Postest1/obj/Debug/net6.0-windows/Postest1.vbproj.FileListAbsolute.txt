@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Postest1\Postest1\bin\Debug\net6.0-windows\Postest1.exe
+C:\Users\USER\source\repos\Postest1\Postest1\bin\Debug\net6.0-windows\Postest1.deps.json
+C:\Users\USER\source\repos\Postest1\Postest1\bin\Debug\net6.0-windows\Postest1.runtimeconfig.json
+C:\Users\USER\source\repos\Postest1\Postest1\bin\Debug\net6.0-windows\Postest1.dll
+C:\Users\USER\source\repos\Postest1\Postest1\bin\Debug\net6.0-windows\Postest1.pdb
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.Form1.resources
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.AssemblyInfo.vb
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.dll
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\refint\Postest1.dll
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.pdb
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\Postest1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Postest1\Postest1\obj\Debug\net6.0-windows\ref\Postest1.dll
